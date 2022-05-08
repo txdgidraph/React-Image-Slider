@@ -3,7 +3,7 @@ body{
 }
 .image-box{
   width: 50%;
-  height: 50vh;
+  height: 60vh;
   background-color: white;
   margin: auto;
 }
@@ -19,4 +19,14 @@ body{
   margin-right: 25%;
   padding: 5px;
   font-weight: bold;
+}
+
+.three-image-conatiner{
+  margin-right: 10%;
+  margin-left:10%;
+}
+
+.arrows:hover{
+background-color: black;
+color: white;
 }
